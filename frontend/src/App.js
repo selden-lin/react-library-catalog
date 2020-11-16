@@ -20,6 +20,7 @@ class App extends React.Component {
     render() {
         return (
             <div>
+                
                 {/* <p>{this.state.name}</p> */}
                 {/* <CatalogPage msg={this.state.name} changeName={this.changeName}/> */}
                 <LoginPage/>
